@@ -1,6 +1,6 @@
 - 👋 Olá Meu nome e Mateus
 - 👀 Gosto muito de programação e estou em busca de conhecimento 
-- 🌱 Estou aprendendo JavaScript
+- 🌱 Estou aprendendo JavaScript,NodeJS,MySql.
 - 📫 Emails:mateussantanasilva@outlook.com.br
 
 <!---
